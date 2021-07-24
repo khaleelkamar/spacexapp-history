@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/spacexapp-history/static/js/main.faeb5681.chunk.js",
+    "main.js.map": "/spacexapp-history/static/js/main.faeb5681.chunk.js.map",
+    "runtime-main.js": "/spacexapp-history/static/js/runtime-main.2eaf9f85.js",
+    "runtime-main.js.map": "/spacexapp-history/static/js/runtime-main.2eaf9f85.js.map",
+    "static/css/2.847a128f.chunk.css": "/spacexapp-history/static/css/2.847a128f.chunk.css",
+    "static/js/2.c0034d11.chunk.js": "/spacexapp-history/static/js/2.c0034d11.chunk.js",
+    "static/js/2.c0034d11.chunk.js.map": "/spacexapp-history/static/js/2.c0034d11.chunk.js.map",
+    "index.html": "/spacexapp-history/index.html",
+    "static/css/2.847a128f.chunk.css.map": "/spacexapp-history/static/css/2.847a128f.chunk.css.map",
+    "static/js/2.c0034d11.chunk.js.LICENSE.txt": "/spacexapp-history/static/js/2.c0034d11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eaf9f85.js",
+    "static/css/2.847a128f.chunk.css",
+    "static/js/2.c0034d11.chunk.js",
+    "static/js/main.faeb5681.chunk.js"
+  ]
+}
